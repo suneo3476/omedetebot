@@ -1,0 +1,15 @@
+{
+  "name": "Twitter-Commands",
+  "version": "0.0.0",
+  "description": "Useful Twitter command system",
+  "main": "app.js",
+  "dependencies": {
+    "ntwitter": "~0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ikr7",
+  "license": "BSD-2-Clause"
+}
