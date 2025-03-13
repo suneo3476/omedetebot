@@ -97,11 +97,3 @@ TODO：@omedetebot が使用者をフォローする（@omedetebot のタイム�
 お願い
 =======
 おめでてーBOTは開発中です。もしおかしな動きをしていたら、開発者までご一報ください。どうか宜しくお願いします。
-
-開発者への連絡
-----------------------
-suneo、suneo3476、すねお
-
-Twitter: [@suneo3476Pro](https://twitter.com/suneo3476Pro "@suneo3476Pro")
-
-EMail: suneo3476[at]gmail.com
